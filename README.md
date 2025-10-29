@@ -15,7 +15,7 @@ This is important, please read carefully:
 ## Current Status
 
 * I have pushed all the necessary MATLAB and Python files for Project 3 to this repository.
-* My work so far has been primarily in Python (using numpy).
+* My work so far has been in Python (using numpy).
 * **Communication:** If you run into any issues, blockers, or errors, please document them in the [Issues / Blockers](#%EF%B8%8F-issues--blockers) section at the bottom of this README.
 
 ## To-Do List
