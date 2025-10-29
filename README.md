@@ -6,11 +6,9 @@
 
 ## Submission (Autograder Policy)
 
-This is important, please read carefully:
-
 * We can submit our output to the autograder as many times.
 * Once I or you have a final version, FULL score grade, **add me or you as a group member.**
-* **CRITICAL:** The Gradescope requires me or you to **re-add the group member on every single resubmission.**
+* The Gradescope requires me or you to **re-add the group member on every single resubmission.**
 
 ## Current Status
 
