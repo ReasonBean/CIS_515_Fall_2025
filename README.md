@@ -8,9 +8,9 @@
 
 This is important, please read carefully:
 
-* The first person to complete a working version should submit it to the autograder to check the grade.
-* After confirming the grade, **add me or you as a group member.**
-* **CRITICAL:** The autograder requires you to **re-add group member on every single resubmission.**
+* We can submit our output to the autograder as many times as we need to check our work.
+* Once I or you have a final version, FULL score grade, **add me or you as a group member.**
+* **CRITICAL:** The Gradescope requires me or you to **re-add the group member on every single resubmission.**
 
 ## Current Status
 
