@@ -4,7 +4,7 @@
 
 ---
 
-## Submission (Autograder Policy)
+## Submission
 
 * We can submit our output to the autograder as many times.
 * Once I or you have a final version, FULL score grade, **add me or you as a group member.**
