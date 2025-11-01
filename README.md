@@ -20,11 +20,10 @@
 
 Based on the project description, here is our immediate plan:
 
-* **Part 1 (Proof):** **On Hold.** We will work on this once the guidelines are uploaded to Ed.
-* **Part 1 (2) -  Compute Boor control points:** → **In Progress.**
-* **Part 2 (i) - `interpnatxy` function:** → **In Progress.**
-* **Part 2 (ii) - Plotting & `bspline2b`:** → **In Progress.**
-* **Part 2 (iii) - Interactive `getpoints`:** → **In Progress.**
+* **Part 1 (Proof):** **On Hold.** I will add the proof to the report folder and then submit the results.
+* **Part 2 (i) - ✅
+* **Part 2 (ii) - ✅
+* **Part 2 (iii) - ✅
 
 ---
 
