@@ -20,7 +20,7 @@
 
 Based on the project description, here is our immediate plan:
 
-* **Part 1 (Proof):** **On Hold.** I will add the proof to the report folder and then submit the results.
+* **Part 1 (Proof):** **On Hold.** I will add the proof to the report folder and then submit the results. The professor mentioned that he will create the proof section on Gradescope and push back the due date.
 * **Part 2 (i) - ✅
 * **Part 2 (ii) - ✅
 * **Part 2 (iii) - ✅
