@@ -27,17 +27,17 @@ Based on the project description, here is our immediate plan:
 
 ---
 
+# Project 4
+
+## Deadline: December 3, 2025 **12:59pm**
+
+---
+
 ## ⚠️ Issues / Blockers
 
 *Add any problems.*
 
 * ...
-
----
-
-# Project 4
-
-## Deadline: December 3, 2025 **12:59pm**
 
 ---
 
