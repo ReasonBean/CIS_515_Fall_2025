@@ -176,9 +176,10 @@ for i, M in enumerate(matrices):
 
 # Dynamic elements (moving shape)
 # We also add a trace line
-line, = ax.plot([], [], 'r-', linewidth=3, label='Moving Body')
+line, = ax.plot([], [], 'r-', linewidth=2, label="Moving shape")
 path_x, path_y = [], []
-trace, = ax.plot([], [], 'b:', linewidth=1, alpha=0.5, label='Trace') 
+trace, = ax.plot([], [], 'b:', linewidth=1, alpha=0.5, label="Trace") 
+ax.legend(loc="upper right")
 
 # Animation settings (Default)
 fps = 30 # Lower FPS to reduce file size
@@ -209,8 +210,8 @@ def update(frame):
     # Spline Evaluation (in sim(2))
     a_t = eval_cubic_bezier(t, *B_alpha[i])
     w_t = eval_cubic_bezier(t, *B_theta[i])
-    u_t = eval_cubic_bezier(t, *B_u[i])
-    v_t = eval_cubic_bezier(t, *B_v[i])
+    u_t =eval_cubic_bezier(t, *B_u[i])
+    v_t =eval_cubic_bezier(t, *B_v[i])
     
 
     # Build the element L_t in sim(2)
@@ -237,11 +238,14 @@ def update(frame):
     
     return line, trace
 
-# 6. Create animation and Save
-anim = FuncAnimation(fig, update, frames=total_frames, interval=1000/fps, blit=True)
-save_path = "output/b2_part2.gif"
-print(f"Saving animation to {save_path}")
-anim.save(save_path, writer=PillowWriter(fps=fps))
+# 6-1. Create animation and Save
+anim = FuncAnimation(fig, update, frames=total_frames, interval=1000/fps, blit=False)
+print(f"Saving animation...")
+anim.save("output/b2_part2.gif", writer=PillowWriter(fps=fps))
+
+# 6-2. Save PNG file
+update(total_frames - 1)
+fig.savefig("output/b2_part2.png")
 
 plt.legend()
 plt.show()
