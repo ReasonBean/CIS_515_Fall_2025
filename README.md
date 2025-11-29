@@ -20,7 +20,7 @@
 
 Based on the project description, here is our immediate plan:
 
-* **Part 1 (Proof):** **On Hold.** I will add the proof to the report folder and then submit the results. (Nov 3) The professor mentioned that he will create the proof section on Gradescope and push back the due date.
+* **Part 1 (Proof) - ✅
 * **Part 2 (i) - ✅
 * **Part 2 (ii) - ✅
 * **Part 2 (iii) - ✅
@@ -35,12 +35,12 @@ Based on the project description, here is our immediate plan:
 
 ---
 
-## Project 4
+# Project 4
 
-*TBD*
+## Deadline: December 3, 2025 **12:59pm**
 
 ---
 
-## Project 5
+# Project 5
 
-*TBD*
+## Deadline: December 10, 2025
